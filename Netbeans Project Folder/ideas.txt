@@ -1,0 +1,16 @@
+IDEAS/STUFF FOR GAME
+
+better death screen
+clean up the code
+add levels/different backgrounds
+save states
+different gamestates (main menu, game, pause, game over, ect)
+differnet enemies per levels/different
+special types of enemies
+different weapons?
+different ships
+boss battles
+upgrades
+upgrade shop
+slot machine
+explosions

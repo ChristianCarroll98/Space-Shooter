@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Bullet.h</itemPath>
+      <itemPath>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Enemy.h</itemPath>
+      <itemPath>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Entity.h</itemPath>
+      <itemPath>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Explosion.h</itemPath>
+      <itemPath>GUI.h</itemPath>
+      <itemPath>Graph.h</itemPath>
+      <itemPath>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Level.h</itemPath>
+      <itemPath>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Pickup.h</itemPath>
+      <itemPath>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Player.h</itemPath>
+      <itemPath>Point.h</itemPath>
+      <itemPath>Simple_window.h</itemPath>
+      <itemPath>Window.h</itemPath>
+      <itemPath>std_lib_facilities.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Bullet.cpp</itemPath>
+      <itemPath>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Enemy.cpp</itemPath>
+      <itemPath>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Entity.cpp</itemPath>
+      <itemPath>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Explosion.cpp</itemPath>
+      <itemPath>GUI.cpp</itemPath>
+      <itemPath>Graph.cpp</itemPath>
+      <itemPath>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Level.cpp</itemPath>
+      <itemPath>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Pickup.cpp</itemPath>
+      <itemPath>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Player.cpp</itemPath>
+      <itemPath>Window.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>C:\Users\Christian\Desktop\School\Spring 2017\Computer Science II\Project\Netbeans Project Folder\Project</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <incDir>
+            <pElem>C:/MinGW/fltk-1.3.3</pElem>
+            <pElem>C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project</pElem>
+          </incDir>
+          <commandLine>`C:/MinGW/fltk-1.3.3/fltk-config --cxxflags` -std=gnu++11</commandLine>
+        </ccTool>
+        <linkerTool>
+          <linkerAddLib>
+            <pElem>C:/MinGW/fltk-1.3.3/lib</pElem>
+          </linkerAddLib>
+          <linkerLibItems>
+            <linkerLibLibItem>fltk</linkerLibLibItem>
+          </linkerLibItems>
+          <commandLine>`C:/MinGW/fltk-1.3.3/fltk-config --ldflags --use-images` -static-libgcc -static-libstdc++</commandLine>
+        </linkerTool>
+      </compileType>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Bullet.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Bullet.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Enemy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Enemy.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Entity.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Entity.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Explosion.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Explosion.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Level.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Level.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Pickup.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Pickup.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Player.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Player.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="GUI.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GUI.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Graph.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Graph.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Point.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Simple_window.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Window.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Window.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="std_lib_facilities.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Bullet.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Bullet.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Enemy.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Enemy.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Entity.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Entity.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Explosion.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Explosion.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Level.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Level.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Pickup.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Pickup.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Player.cpp"
+            ex="false"
+            tool="1"
+            flavor2="0">
+      </item>
+      <item path="C:/Users/Christian/Desktop/School/Spring 2017/Computer Science II/Project/Netbeans Project Folder/Project/Player.h"
+            ex="false"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="GUI.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="GUI.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Graph.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Graph.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Point.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Simple_window.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Window.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Window.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="std_lib_facilities.h" ex="false" tool="3" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
